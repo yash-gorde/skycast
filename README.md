@@ -3,13 +3,13 @@
 Skycast is a Python-powered application that combines geolocation technology and real-time weather data to provide users with accurate, location-specific weather updates. Designed with simplicity and functionality in mind, it leverages APIs for efficient data retrieval and seamless integration.  
 Skycast is a cutting-edge weather forecasting application that leverages modern APIs and Python's versatility to deliver precise, real-time weather updates. Built with both usability and performance in mind, it is an ideal tool for anyone seeking quick and accurate weather information.
 ## Our Team:
-  1.Yash Rajendra Gorde 
+  1.Yash Rajendra Gorde (lead)
   
-  2.Shital Balu Parchande
+  2.Shital Balu Parchande (member)
   
-  3.Sunil Baban Wagh
+  3.Sunil Baban Wagh (member)
   
-  4.Mohit Sanjay Dhembre
+  4.Mohit Sanjay Dhembre (member)
   
 ## Phase 1:
 ### 📝Goals And Objectives
